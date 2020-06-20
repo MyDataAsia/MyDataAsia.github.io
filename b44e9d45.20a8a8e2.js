@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{161:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"opendevelopmentcamobida","name":"opendevelopmentcamobida","count":2,"permalink":"/blog/tags/opendevelopmentcamobida"}')}}]);
